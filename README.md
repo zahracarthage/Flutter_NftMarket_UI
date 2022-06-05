@@ -41,7 +41,7 @@ Clone the project and run it.
  ### Built With
 
  * [Flutter](https://docs.flutter.dev/get-started/codelab)
- * [Intl]([https://docs.flutter.dev/cookbook](https://pub.dev/packages/intl)
+ * [Intl](https://docs.flutter.dev/cookbook](https://pub.dev/packages/intl)
 
 
 
